@@ -13,6 +13,7 @@
 		E298246D226765A9001CA36D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E298246C226765A9001CA36D /* Assets.xcassets */; };
 		E2982470226765A9001CA36D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E298246E226765A9001CA36D /* LaunchScreen.storyboard */; };
 		E298247822676719001CA36D /* CellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E298247722676719001CA36D /* CellTableViewCell.swift */; };
+		E298247C22676840001CA36D /* EEEEETableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E298247B22676840001CA36D /* EEEEETableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E298246F226765A9001CA36D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E2982471226765A9001CA36D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E298247722676719001CA36D /* CellTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellTableViewCell.swift; sourceTree = "<group>"; };
+		E298247B22676840001CA36D /* EEEEETableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EEEEETableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				E2982465226765A6001CA36D /* AppDelegate.swift */,
 				E2982467226765A6001CA36D /* ViewController.swift */,
 				E298247722676719001CA36D /* CellTableViewCell.swift */,
+				E298247B22676840001CA36D /* EEEEETableViewCell.swift */,
 				E2982469226765A6001CA36D /* Main.storyboard */,
 				E298246C226765A9001CA36D /* Assets.xcassets */,
 				E298246E226765A9001CA36D /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				E298247822676719001CA36D /* CellTableViewCell.swift in Sources */,
 				E2982468226765A6001CA36D /* ViewController.swift in Sources */,
 				E2982466226765A6001CA36D /* AppDelegate.swift in Sources */,
+				E298247C22676840001CA36D /* EEEEETableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
