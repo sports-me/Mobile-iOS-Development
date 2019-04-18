@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E2647F3422687A5D00A35256 /* LilitTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2647F3322687A5D00A35256 /* LilitTableViewCell.swift */; };
 		E2982466226765A6001CA36D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2982465226765A6001CA36D /* AppDelegate.swift */; };
 		E2982468226765A6001CA36D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2982467226765A6001CA36D /* ViewController.swift */; };
 		E298246B226765A6001CA36D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2982469226765A6001CA36D /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E2647F3322687A5D00A35256 /* LilitTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LilitTableViewCell.swift; sourceTree = "<group>"; };
 		E2982462226765A6001CA36D /* Sports Me.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Sports Me.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2982465226765A6001CA36D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E2982467226765A6001CA36D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				E2982467226765A6001CA36D /* ViewController.swift */,
 				E298247722676719001CA36D /* CellTableViewCell.swift */,
 				E298247B22676840001CA36D /* EEEEETableViewCell.swift */,
+				E2647F3322687A5D00A35256 /* LilitTableViewCell.swift */,
 				E2982469226765A6001CA36D /* Main.storyboard */,
 				E298246C226765A9001CA36D /* Assets.xcassets */,
 				E298246E226765A9001CA36D /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				E2982468226765A6001CA36D /* ViewController.swift in Sources */,
 				E2982466226765A6001CA36D /* AppDelegate.swift in Sources */,
 				E298247C22676840001CA36D /* EEEEETableViewCell.swift in Sources */,
+				E2647F3422687A5D00A35256 /* LilitTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
